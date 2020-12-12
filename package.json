@@ -4,9 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "serve": "postcss src/style.css -o build/css/style.css",
-    "copy": "copyfiles -f ./src/index.html build",
-    "build": "npm run serve && npm run copy"
+    "build": "postcss src/style.css -o build/css/style.css"
   },
   "keywords": [],
   "author": "",
