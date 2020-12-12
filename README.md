@@ -13,8 +13,8 @@ This is a full basic and first step project to help another project. Actually th
 8. Run 'index.html' file from build folder. 
 
 ### Tips:
-1. After finishing 1 to 5 steps, open tailwind.config.js file and see the 'purge: { enabled: true' ..., just remove 'true' and write 'false'. Save this file. 
+1. After completing the above five (1 to 5) steps, open tailwind.config.js file and see the 'purge: { enabled: true' ..., just remove 'true' and write 'false'. Save this file. 
 2. now 'npm run build' and you will get all tailwind css code in your build/css/style.css file. 
 3. now you can work with your html files and run that html file very quickly. because, you don't need run 'build' command again and again. 
-4. when your work is finished and you want the final product, just open tailwind.config.js file and see the 'purge: { enabled: false' ..., now remove 'false' and write 'true'. Save this file.  
+4. when your work is finished and if you want the final product, just open tailwind.config.js file and see the 'purge: { enabled: false' ..., now remove 'false' and write 'true'. Save this file.  
 5. 'npm run build' and you will get your final product. 
