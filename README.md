@@ -5,5 +5,5 @@ This is a full basic and first step project to help another project. Actually th
 ### How to use:
 1. Download this project from GitHub
 2. npm install
-3. Modify index.html for new design which you need 
+3. Modify index.html from src folder and create more html files if you need 
 4. npm run build
